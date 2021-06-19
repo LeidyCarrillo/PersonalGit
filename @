@@ -1,0 +1,30 @@
+[33mcommit ec7a91282331c8a5df8ac0653d9bf84a0ec046b0[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;32mcabecera[m[33m)[m
+Author: unknown <leidy.carrillohernandez@amaris.com>
+Date:   Fri Jun 18 18:56:27 2021 -0500
+
+    Esta es la segunda verison del post
+
+[1mdiff --git a/vacio.html b/vacio.html[m
+[1mindex db49e4d..302a9b2 100644[m
+[1m--- a/vacio.html[m
+[1m+++ b/vacio.html[m
+[36m@@ -3,15 +3,15 @@[m
+         <title>[m
+             Titulo del post[m
+         </title>[m
+[31m-        <link rel="stylesheet" href="css/estilos.css"/>[m
+[31m-[m
+[32m+[m[32m        <link rel="stylesheet" href="css\estilos.css" />[m
+     </head>[m
+[32m+[m[41m    [m
+     <body>[m
+         <h1>[m
+[31m-            Aqui vamos hacer un post[m
+[32m+[m[32m            Este es mi nuevo post[m
+         </h1>[m
+         <p>[m
+[31m-            Este en el parrafo de inicio[m
+[32m+[m[32m            Estoy aprendiendo GIT con Platzi[m
+         </p>[m
+ [m
+     </body>[m
